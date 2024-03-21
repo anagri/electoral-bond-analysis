@@ -9,6 +9,11 @@
   - [new-receiver.csv](new-receiver.csv)
 - merged purchaser and receiver data on Preix and Bond Number
   - [merged-purchaser-receiver.csv](merged-purchaser-receiver.csv)
+- merged analysis
+  - [purchased-not-encashed.csv](purchased-not-encashed.csv) 
+    - bonds that have been purchased, not encashment details not available based on Prefix and Bond Number
+  - [encashed-not-purchased.csv](encashed-not-purchased.csv)
+    - bonds that have been encashed, but purchaser details not available based on Prefix and Bond Number
 
 ## Old Data
 The repository contains:
