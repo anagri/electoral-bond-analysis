@@ -14,6 +14,8 @@
     - bonds that have been purchased, not encashment details not available based on Prefix and Bond Number
   - [encashed-not-purchased.csv](encashed-not-purchased.csv)
     - bonds that have been encashed, but purchaser details not available based on Prefix and Bond Number
+  - [total-donations-to-party.csv](total-donations-to-party.csv)
+    - grouped purchaser, receiver, aggregate by total donations, sorted by donations DESC, purchaser ASC, receiver ASC
 
 ## Old Data
 The repository contains:
